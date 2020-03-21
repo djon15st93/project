@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "title": "Motor Ravel",
+        "image": "engine.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 1400.00
+    },
+    {
+        "id": "2",
+        "title": "Motor Ravel",
+        "image": "engine.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 1400.00
+    },
+    {
+        "id": "3",
+        "title": "Motor Ravel",
+        "image": "engine.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 1400.00
+    },
+    {
+        "id": "4",
+        "title": "Motor Ravel",
+        "image": "engine.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 1400.00
+    },
+    {
+        "id": "5",
+        "title": "Water spear",
+        "image": "spear.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 800.00
+    },
+    {
+        "id": "6",
+        "title": "Water spear",
+        "image": "spear.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 800.00
+    },
+    {
+        "id": "7",
+        "title": "Water spear",
+        "image": "spear.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 800.00
+    },
+    {
+        "id": "8",
+        "title": "Water spear",
+        "image": "spear.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 800.00
+    },
+    {
+        "id": "9",
+        "title": "Water pistol",
+        "image": "water-pistol.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 2300.00
+    },
+    {
+        "id": "10",
+        "title": "Water pistol",
+        "image": "water-pistol.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 2300.00
+    },
+    {
+        "id": "11",
+        "title": "Water pistol",
+        "image": "water-pistol.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 2300.00
+    },
+    {
+        "id": "12",
+        "title": "Water pistol",
+        "image": "water-pistol.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 2300.00
+    }
+]
